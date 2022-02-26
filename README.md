@@ -27,3 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wallaceanjos&show_icons=true&locale=pt-br&layout=compact" alt="wallaceanjos" width="40%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=wallaceanjos&show_icons=true&locale=pt-br" alt="wallaceanjos" width="45%"/>
 </p>
+
+<p>
+  <img src="https://c.tenor.com/b_xNRUNcjt4AAAAC/retro-wave.gif">
+</p>
