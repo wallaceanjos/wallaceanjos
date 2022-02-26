@@ -24,6 +24,6 @@
 ### Languages and Tools:
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wallaceanjos&show_icons=true&locale=pt-br&layout=compact" alt="wallaceanjos" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=wallaceanjos&show_icons=true&locale=pt-br" alt="wallaceanjos" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wallaceanjos&show_icons=true&locale=pt-br&layout=compact" alt="wallaceanjos" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wallaceanjos&show_icons=true&locale=pt-br" alt="wallaceanjos"/>
 </p>
