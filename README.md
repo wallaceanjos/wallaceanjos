@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi 👋, I'm Wallace Anjos
+### A passionate frontend developer from Brazil
 
-<!--
-**wallaceanjos/wallaceanjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Matcha-Design-System](https://matcha-guide.netlify.app/)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **to be a better programmer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+<p align="left">
+  <a href="https://codepen.io/wallaceanjos" target="blank">
+    <img align="center" src="https://i.ibb.co/F3tFYhS/codepen-line.png" alt="wallaceanjos" height="24" width="24" />
+  </a> -
+  <a href="https://linkedin.com/in/wallace-dos-anjos" target="blank">
+    <img align="center" src="https://i.ibb.co/d7mSQP1/linkedin-fill.png" alt="wallace-dos-anjos" height="24" width="24" />
+  </a> -
+  <a href="https://instagram.com/bringyournature" target="blank">
+    <img align="center" src="https://i.ibb.co/NT447hW/instagram-line.png" alt="bringyournature" height="24" width="24" />
+  </a> -
+  <a href="https://www.behance.net/wallace2anjos" target="blank">
+    <img align="center" src="https://i.ibb.co/k8zyXcQ/behance-line.png" alt="wallace2anjos" height="24" width="24" />
+  </a> 
+</p>
+
+### Languages and Tools:
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallaceanjos&show_icons=true&locale=en&layout=compact" alt="wallaceanjos" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wallaceanjos&show_icons=true&locale=en" alt="wallaceanjos" /></p>
